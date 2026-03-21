@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# 编译产物
+dist/
+resources/icon.iconset/
+resources/icon.icns
